@@ -3,16 +3,21 @@ dependencies:
 - beautiful-soup=4.3.2=py27_0
 - certifi=14.05.14=py27_0
 - decorator=4.0.2=py27_0
+- freetype=2.5.2=2
 - gensim=0.10.3=np19py27_0
 - ipykernel=4.0.3=py27_0
 - ipython=4.0.0=py27_0
 - ipython_genutils=0.1.0=py27_0
 - jinja2=2.8=py27_0
+- jpeg=8d=1
 - jsonschema=2.4.0=py27_0
 - jupyter_client=4.0.0=py27_0
 - jupyter_core=4.0.4=py27_0
+- lcms=1.19=0
+- libpng=1.6.17=0
 - libsodium=0.4.5=0
 - markupsafe=0.23=py27_0
+- matplotlib=1.4.3=np19py27_3
 - mistune=0.7.1=py27_0
 - nbconvert=4.0.0=py27_0
 - nbformat=4.0.0=py27_0
@@ -24,19 +29,24 @@ dependencies:
 - path.py=7.6=py27_0
 - pexpect=3.3=py27_0
 - pickleshare=0.5=py27_0
+- pil=1.1.7=py27_2
 - pip=7.1.2=py27_0
 - ptyprocess=0.4=py27_0
 - pygments=2.0.2=py27_0
+- pyparsing=2.0.3=py27_0
+- pyqt=4.11.3=py27_0
 - python=2.7.10=0
 - python-dateutil=2.4.2=py27_0
 - python.app=1.2=py27_4
 - pytz=2015.4=py27_0
 - pyyaml=3.11=py27_1
 - pyzmq=14.7.0=py27_0
+- qt=4.8.6=3
 - readline=6.2=2
 - scipy=0.16.0=np19py27_1
 - setuptools=18.1=py27_0
 - simplegeneric=0.8.1=py27_0
+- sip=4.16.5=py27_0
 - six=1.9.0=py27_0
 - sqlite=3.8.4.1=1
 - ssl_match_hostname=3.4.0.2=py27_0
@@ -52,9 +62,20 @@ dependencies:
   - backports.ssl-match-hostname==3.4.0.2
   - beautifulsoup4==4.3.2
   - disco==0.0.0
+  - funcsigs==0.4
   - ipython-genutils==0.1.0
   - jupyter-client==4.0.0
   - jupyter-core==4.0.4
   - lda==1.0.2
+  - mock==1.3.0
+  - networkx==1.10
+  - nose==1.3.7
   - pbr==0.11.0
+  - pillow==2.9.0
+  - pylab==0.1.3
+  - scikit-image==0.11.3
+  - scikit-learn==0.16.1
+  - seaborn==0.6.0
   - stop-words==2015.2.23.1
+  - sympy==0.7.6.1
+  - wordcloud==1.1.3
