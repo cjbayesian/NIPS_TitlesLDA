@@ -1,6 +1,6 @@
 # Categorizing NIPS papers using LDA topic modeling
 
-Trying to decide what papers you're interested in at this year's NIPS? This repo consists of an ipython notebook implementing a simple LDA topic model over paper titles. It might not help you decide, but it'll ought to be a lark along the way.
+Trying to decide what papers you're interested in at this year's NIPS? This repo consists of an ipython notebook implementing a simple LDA topic model over paper titles. It might not help you decide, but it ought to be a lark along the way.
 
 The LDA code is adapted from Jordan Barber's blog post [Latent Dirichlet Allocation (LDA) with Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
 
